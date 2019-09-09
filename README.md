@@ -21,7 +21,7 @@ sudo ln -s /usr/lib64/libBounceStudio64.so.3.7.0.962 /usr/lib64/libBounceStudio6
 ```
 4. Time to checkout this repo:
 ```bash
-git clone git clone ssh://git@git.avaaz.org:7999/developers/bouncestudio-php-7.git
+git clone git@github.com:Avaaz/bouncestudio-php7.git
 ```
 5. Copy `BounceStudio.h` to the folder of the extension you want to build (we will build the extension for the PHP7. For PHP5 use appropriate folder):
 ```bash
